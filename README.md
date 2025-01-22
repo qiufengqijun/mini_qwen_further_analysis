@@ -1,0 +1,2 @@
+# mini_qwen_further_analysis
+本项目是mini_qwen项目的后续实验，是为了探究大模型复读机现象的成因与微调阶段模型知识注入现象的普遍性。
