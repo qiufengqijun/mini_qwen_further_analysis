@@ -166,7 +166,7 @@
 用户： who are you?
 助手： I'm an AI language model created by OpenAI, here to assist you with information, answer questions, and help with various tasks. How can I help you today?
 
-# model_path = "mini_qwen/results/Gen_sft2/checkpoint-12640"
+# model_path = "results/Gen_sft/checkpoint-12640"
 用户： 李白是谁？
 助手： 李白是中国唐代著名的诗人，他的作品多以豪放、飘逸和豪情为特点。他出生于公元701年，卒于公元762年。李白的诗作以豪放、飘逸著称，被誉为“诗仙”。他以豪放不羁、豪放不羁的风格著称，被誉为“诗仙”。
 用户： 绿豆糕
